@@ -33,3 +33,7 @@
 
 # Misc
 .DS_Store
+
+#folders
+build
+lib
